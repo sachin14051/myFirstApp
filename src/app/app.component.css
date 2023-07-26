@@ -1,0 +1,13 @@
+.heading{
+    background-color: yellow;
+    color: black;
+    padding: 20px;
+
+}
+
+.para{
+    background-color: blue;
+    color: white;
+    font-size: 24px;
+    padding: 20px;
+}
